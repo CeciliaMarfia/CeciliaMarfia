@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="github contribution grid snake animation](https://raw.githubusercontent.com/CeciliaMarfia/CeciliaMarfia/manual-run-output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CeciliaMarfia/CeciliaMarfia/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
 </div>
 
 
