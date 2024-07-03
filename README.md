@@ -1,16 +1,22 @@
-## Hi there 👋
+### ¡Hola! Soy Cecilia (Chechu) 🙋🏻‍♀️
 
-<!--
-**CeciliaMarfia/CeciliaMarfia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudiante de ATIC y Licenciatura en Informática** en la Universidad Nacional de La Plata (UNLP)  
+🎮 **Diplomatura en Esports** en la UNLP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Actualmente aprendiendo:**
+- 🔐 Ciberseguridad
+- 🕹️ Desarrollo de Videojuegos
+
+---
+
+🔗 **Conectate conmigo:**
+- [LinkedIn](https://www.linkedin.com/in/cecilia-marfia-9a0ab0217/) 
+- [Twitter](https://www.twitter.com/ChechuMarfia/)
+- [Instagram](https://www.instagram.com/chechumarfia/)
+
+---
+
+###  ¡Gracias por visitar mi perfil! 😊
+
