@@ -23,7 +23,7 @@
 </div>
 <div align="center">
   <p>💻 <strong>Estudiante de ATIC y Licenciatura en Informática</strong> en la Universidad Nacional de La Plata (UNLP)</p>
-  <p>🎮 <strong>Diplomatura en Esports</strong> en la UNLP</p>
+  <p>🎮 <strong>Diplomada en Esports</strong> en la UNLP</p>
   <hr>
   <p>📚 <strong>Actualmente aprendiendo:</strong></p>
   <ul>
