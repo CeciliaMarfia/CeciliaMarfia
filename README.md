@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola! Soy Chechu 🙋🏻‍♀️</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola! Soy Chechu 👩🏻‍💻 </h1></summary>
   </ul>
 </div>
 
@@ -18,20 +18,11 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of programming 🤯</h2></summary>
   </ul>
 </div>
 <div align="center">
   <p>💻 <strong>Estudiante de ATIC y Licenciatura en Informática</strong> en la Universidad Nacional de La Plata (UNLP)</p>
   <p>🎮 <strong>Diplomada en Esports</strong> en la UNLP</p>
-  <hr>
-  <p>📚 <strong>Actualmente aprendiendo:</strong></p>
-  <ul>
-    <li>🔐 Ciberseguridad</li>
-    <li>🕹️ Desarrollo de Videojuegos</li>
-  </ul>
-</div>
-<hr>
 
 <!-- 🔗 Conectate conmigo -->
 <!--h2 without bottom border-->
@@ -48,8 +39,6 @@
   
 </p>
 
-
----
 <div align="center">
   <h3>¡Gracias por visitar mi perfil! 😊</h3>
 </div>
