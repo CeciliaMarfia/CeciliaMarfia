@@ -1,4 +1,4 @@
-<h1 align="center">Cecilia Marfia</h1>
+<h1 align="center">Cecilia Marfia 👩🏻‍💻</h1>
 
 <p align="center">
   <strong>Estudiante avanzada de Informática · UNLP</strong><br>
