@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Estudiante avanzada de Informática · UNLP</strong><br>
-  Análisis funcional · Investigación · Docencia
+   Investigación · Docencia · Proyectos personales
 </p>
 
 <p align="center">
