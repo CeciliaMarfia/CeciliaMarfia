@@ -10,6 +10,10 @@
   <a href="https://discordapp.com/users/724101377869086791"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
+<div align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CeciliaMarfia/CeciliaMarfia/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
+</div>
+
 ---
 
 ## Sobre mí
@@ -54,8 +58,3 @@ Además de proyectos, en este perfil comparto **material de estudio de las mater
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
----
-
-<div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CeciliaMarfia/CeciliaMarfia/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
-</div>
