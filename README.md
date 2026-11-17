@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-Estudio la **Licenciatura en Informática** y la **Analista en Tecnologías de la Información y la Comunicación (ATIC)** en la Facultad de Informática de la Universidad Nacional de La Plata. Me interesa el lado del software que está entre las personas y el código: entender problemas, relevar requerimientos y diseñar soluciones, especialmente en el área de los **juegos serios** aplicados a la educación y la salud.
+Estudio la **Licenciatura en Informática** y la **Analista en Tecnologías de la Información y la Comunicación (ATIC)** en la Facultad de Informática de la Universidad Nacional de La Plata. Me gusta aprender sobre el análisis y diseño de software, desde la comprensión de problemas y el relevamiento de requerimientos hasta la construcción de soluciones. También sobre la aplicación de la tecnología en ámbitos como la educación y la salud, particularmente a través de los **juegos serios**.
 
 - 🧑‍🏫 **Ayudante** en Ingeniería de Software I (Facultad de Informática, UNLP). Antes fui ayudante en Matemática 0, A y B.
 - 🎮 **Docente** del Módulo 6 (Juegos Serios) de la Diplomatura en Deportes Electrónicos de la UNLP (2025 y 2026).
