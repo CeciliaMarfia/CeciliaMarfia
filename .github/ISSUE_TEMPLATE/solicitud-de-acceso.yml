@@ -1,0 +1,31 @@
+name: Solicitud de acceso a un repositorio
+description: Pedir acceso a un repositorio privado de material académico.
+title: "Solicitud de acceso: Ingeniería de Software II"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Algunos repositorios de material académico son privados porque incluyen documentación de trabajos grupales. Completá el formulario y, si corresponde, vas a recibir una invitación de GitHub como colaborador/a.
+
+        Esta solicitud es pública: no incluyas datos personales como correo o teléfono.
+  - type: dropdown
+    id: repositorio
+    attributes:
+      label: Repositorio
+      options:
+        - Ingeniería de Software II
+    validations:
+      required: true
+  - type: input
+    id: nombre
+    attributes:
+      label: Nombre y apellido
+    validations:
+      required: true
+  - type: textarea
+    id: motivo
+    attributes:
+      label: Motivo
+      description: Por ejemplo, si estás cursando la materia o si sos docente.
+    validations:
+      required: true

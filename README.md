@@ -57,7 +57,7 @@ Además de proyectos, en este perfil comparto **material de estudio de las mater
 
 **Tercer año**
 
-- Ingeniería de Software II · proyecto: [Bob el Alquilador](https://github.com/CeciliaMarfia/bea-scrumsynergy)
+- Ingeniería de Software II ([privado, solicitar acceso](https://github.com/CeciliaMarfia/CeciliaMarfia/issues/new?template=solicitud-de-acceso.yml)) · proyecto: [Bob el Alquilador](https://github.com/CeciliaMarfia/bea-scrumsynergy)
 - [Redes y Comunicaciones](https://github.com/CeciliaMarfia/redes-y-comunicaciones)
 - [Programación Concurrente](https://github.com/CeciliaMarfia/programacion-concurrente)
 
