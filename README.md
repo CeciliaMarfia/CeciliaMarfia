@@ -31,16 +31,46 @@ Estudio la **Licenciatura en Informática** y la **Analista en Tecnologías de l
 |---|---|---|
 | [**Proyecto Celiaquía**](https://github.com/CeciliaMarfia/proyecto-celiaquia) | Juego serio del III-LIDI para aprender sobre la celiaquía y la alimentación segura, con reconocimiento de imágenes. [Jugar ↗](https://ceciliamarfia.github.io/proyecto-celiaquia/) | JavaScript |
 | [**Bob el Alquilador**](https://github.com/CeciliaMarfia/bea-scrumsynergy) | Sistema web de alquiler de maquinaria, desarrollado en equipo con metodología Scrum. | Python · HTML |
-| [**Ataque Banana**](https://github.com/CeciliaMarfia/ataque-banana) · [**Space Invader**](https://github.com/CeciliaMarfia/space-invader-diplomatura-2026) · [**Operación ¡Meep Meep!**](https://github.com/CeciliaMarfia/proyecto-diplomatura-esports2025) | Minijuegos para Android creados como material del Módulo de Juegos Serios de la Diplomatura en Deportes Electrónicos. | MIT App Inventor |
+| [**Ataque Banana**](https://github.com/CeciliaMarfia/ataque-banana) · [**Space Invader**](https://github.com/CeciliaMarfia/space-invader-diplomatura-2026) · [**Operación ¡Meep Meep!**](https://github.com/CeciliaMarfia/proyecto-diplomatura-esports-2025) | Minijuegos para Android creados como material del Módulo de Juegos Serios de la Diplomatura en Deportes Electrónicos. | MIT App Inventor |
 
 ## Material académico
 
-Además de proyectos, en este perfil comparto **material de estudio de las materias de la carrera** (ejercicios resueltos, prácticas y apuntes de consultas). Los repositorios públicos son:
+Además de proyectos, en este perfil comparto **material de estudio de las materias de la carrera** (ejercicios resueltos, prácticas y apuntes de consultas), ordenado según el plan 2021 de la Licenciatura en Informática.
 
-- [Orientación a Objetos I](https://github.com/CeciliaMarfia/orientacion-a-objetos1) · Java
-- [Programación Concurrente](https://github.com/CeciliaMarfia/programacion-concurrente)
-- [Seminario de Lenguaje: Python](https://github.com/CeciliaMarfia/seminario-de-lenguaje-python) · Python
+**Primer año**
+
+- [Conceptos de Algoritmos, Datos y Programas](https://github.com/CeciliaMarfia/conceptos-de-algoritmos-datos-y-programas) · Pascal
+- [Organización de Computadoras](https://github.com/CeciliaMarfia/organizacion-de-computadoras)
+- [Taller de Programación](https://github.com/CeciliaMarfia/taller-de-programacion) · Pascal · Java · [práctica para el final](https://github.com/CeciliaMarfia/final-taller-practica)
+- [Arquitectura de Computadoras](https://github.com/CeciliaMarfia/arquitectura-de-computadoras)
+
+**Segundo año**
+
+- [Fundamentos de Organización de Datos](https://github.com/CeciliaMarfia/fundamentos-de-organizacion-de-datos) · Pascal
+- [Algoritmos y Estructuras de Datos](https://github.com/CeciliaMarfia/algoritmos-y-estructura-de-datos) · Java
+- [Seminario de Lenguajes: Python](https://github.com/CeciliaMarfia/seminario-de-lenguaje-python) · Python
 - [Diseño de Bases de Datos](https://github.com/CeciliaMarfia/disenio-de-base-de-datos)
+- [Ingeniería de Software I](https://github.com/CeciliaMarfia/ingenieria-de-software-1)
+- [Orientación a Objetos I](https://github.com/CeciliaMarfia/orientacion-a-objetos-1) · Java
+- [Introducción a los Sistemas Operativos](https://github.com/CeciliaMarfia/introduccion-a-los-sistemas-operativos)
+- [Taller de Lecto-comprensión y Traducción en Inglés](https://github.com/CeciliaMarfia/taller-de-lectocomprension-y-traduccion-en-ingles)
+
+**Tercer año**
+
+- Ingeniería de Software II · proyecto: [Bob el Alquilador](https://github.com/CeciliaMarfia/bea-scrumsynergy)
+- [Redes y Comunicaciones](https://github.com/CeciliaMarfia/redes-y-comunicaciones)
+- [Programación Concurrente](https://github.com/CeciliaMarfia/programacion-concurrente)
+
+**Cuarto año**
+
+- [Matemática 4](https://github.com/CeciliaMarfia/matematica-4) · Jupyter Notebook
+
+**Optativas**
+
+- [Cloud Computing y Cloud Robotics](https://github.com/CeciliaMarfia/cloud-computing-y-cloud-robotics)
+
+**Otros estudios**
+
 - [Diplomatura en Deportes Electrónicos](https://github.com/CeciliaMarfia/diplomatura-en-esports) · Jupyter Notebook
 
 ## Tecnologías y herramientas
