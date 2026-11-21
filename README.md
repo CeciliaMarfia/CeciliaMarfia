@@ -35,7 +35,7 @@ Estudio la **Licenciatura en Informática** y la **Analista en Tecnologías de l
 
 ## Material académico
 
-Además de proyectos, en este perfil comparto **material de estudio de las materias de la carrera** (ejercicios resueltos, prácticas y apuntes de consultas), ordenado según el plan 2021 de la Licenciatura en Informática.
+Además de proyectos, en este perfil comparto **material de estudio de las materias de la carrera** (ejercicios resueltos, prácticas y apuntes de consultas), tener en cuenta que son resoluciones personales y pueden llegar a tener errores dado que no son las oficiales de las cátedras.
 
 **Primer año**
 
