@@ -68,6 +68,7 @@ Además de proyectos, en este perfil comparto **material de estudio de las mater
 **Optativas**
 
 - [Cloud Computing y Cloud Robotics](https://github.com/CeciliaMarfia/cloud-computing-y-cloud-robotics)
+- [Conceptos y Aplicaciones de Big Data](https://github.com/CeciliaMarfia/conceptos-y-aplicaciones-de-big-data)
 
 **Otros estudios**
 
