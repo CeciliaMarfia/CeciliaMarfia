@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cecilia-marfia-9a0ab0217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discordapp.com/users/724101377869086791"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.linkedin.com/in/cecilia-marfia-9a0ab0217/"><img src="assets/boton-linkedin.svg" height="40" alt="LinkedIn"></a>&nbsp;
+  <a href="https://discordapp.com/users/724101377869086791"><img src="assets/boton-discord.svg" height="40" alt="Discord"></a>
 </p>
 
 <div align="center">
@@ -81,11 +81,16 @@ Además de proyectos, en este perfil comparto **material de estudio de las mater
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Pascal-00599C?style=flat-square" alt="Pascal">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
   <img src="https://img.shields.io/badge/MIT_App_Inventor-8BC34A?style=flat-square" alt="MIT App Inventor">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" alt="Node-RED">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
